@@ -7,8 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<div align="center">
-		<div><h1>나는 footer.jsp 입니다.</h1></div>
-	</div>
+	<footer class="sticky-footer bg-white">
+		<div class="container my-auto">
+			<div class="copyright text-center my-auto">
+				<span>Copyright &copy; Your Website 2021</span>
+			</div>
+		</div>
+	</footer>
 </body>
 </html>
