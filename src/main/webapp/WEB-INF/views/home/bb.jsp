@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>환영합니다. 스프링에 프레임워크에 오신것을 !!</h1>
+	<div align="center">
+		<div><h1>나는 bbbbbbbp 입니다.</h1></div>
+		<button type="button" onclick="location.href='home.do'">홈가기</button>
+	</div>
 </body>
 </html>
